@@ -37,6 +37,7 @@ var locations = [
   },
   {name: 'Teshomech Kitfo ',
   address: 'Ethio-China St ,Addis Ababa , Ethiopia',
+  website: '',
   latitude: 8.991470,
   longitude: 38.773488,
   marker: ''
