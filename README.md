@@ -17,12 +17,9 @@
 #####http://jdstraughan.com/
 #####http://stackoverflow.com/
 #####https://developers.google.com/maps/documentation/javascript/
-<<<<<<< HEAD
-![](https://github.com/Cherenetse/Neighborhood-map-project/tree/master/images/capture.png)
-||||||| merged common ancestors
-![](https://github.com/Cherenetse/Neighborhood-map-project/tree/master/images/Capture.PNG)
-=======
+
+
 ![](https://github.com/Cherenetse/Neighborhood-map-project/tree/master/images/capture.PNG)
->>>>>>> b7d69b2bbe85aa9a5fa70020a085a305db28a73e
+
 
 
