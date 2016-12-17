@@ -17,6 +17,6 @@
 #####http://jdstraughan.com/
 #####http://stackoverflow.com/
 #####https://developers.google.com/maps/documentation/javascript/
-![](https://github.com/Cherenetse/Neighborhood-map-project/tree/master/images/Capture.PNG)
+![](https://github.com/Cherenetse/Neighborhood-map-project/tree/master/images/capture.png)
 
 
